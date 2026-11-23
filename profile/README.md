@@ -1,3 +1,5 @@
+![DREC Drillers — три поросёнка в касках рядом с буром](https://raw.githubusercontent.com/DREC-Drillers/.github/main/profile/assets/banner.jpg)
+
 ## Привет! Мы — DREC Drillers 👋
 
 Копаем глубже, разбираемся в сложном и создаём вместе.
